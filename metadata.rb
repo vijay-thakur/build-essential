@@ -1,0 +1,7 @@
+name             'build-essential'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures build-essential'
+long_description 'Installs/Configures build-essential'
+version          '0.1.0'

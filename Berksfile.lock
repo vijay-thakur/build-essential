@@ -1,0 +1,14 @@
+DEPENDENCIES
+  build-essential
+    path: .
+    metadata: true
+  seven_zip
+
+GRAPH
+  build-essential (3.2.0)
+    seven_zip (>= 0.0.0)
+  chef_handler (1.4.0)
+  seven_zip (2.0.1)
+    windows (>= 1.2.2)
+  windows (1.44.1)
+    chef_handler (>= 0.0.0)
